@@ -8,6 +8,7 @@ Allowing such visualizations are done using data from an URL for GeoJSON data fr
 
 
 Tools used: HTML, CSS, JavaScript (library: Leaflet) 
+Leaflet link: [Leaflet](https://leafletjs.com/examples/quick-start/) 
 
 
 ## Layers
@@ -23,3 +24,13 @@ Different maps like satellite view, Navigation night view (dark mode), or street
 
 Examples are below: 
 
+
+![Img1](resources/Layerbase.png)
+
+![Img2](resources/darkmode.png)
+
+![Img3](resources/satelitelayer.png)
+
+![Img4](resources/satelitewtectonicplates.png)
+
+![Img5](resources/zoomininfodarkmode.png)
